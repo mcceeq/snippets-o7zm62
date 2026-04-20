@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcceeq.github.io/snippets-o7zm62/sitemap.xml
